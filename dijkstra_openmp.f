@@ -17,11 +17,11 @@ c      0   35   15   45   49   41
 c
 c  Licensing:
 c
-c    This code is distributed under the GNU LGPL license. 
+c    This code is distributed under the MIT license. 
 c
 c  Modified:
 c
-c    02 July 2010
+c    BY Sourangshu Ghosh
 c
 c  Author:
 c
@@ -118,7 +118,7 @@ c    the correct minimum distances.
 c
 c  Licensing:
 c
-c    This code is distributed under the GNU LGPL license. 
+c    This code is distributed under the MIT license. 
 c
 c  Modified:
 c
@@ -285,7 +285,7 @@ cc FIND_NEAREST finds the nearest unconnected node.
 c
 c  Licensing:
 c
-c    This code is distributed under the GNU LGPL license. 
+c    This code is distributed under the MIT license. 
 c
 c  Modified:
 c
@@ -367,7 +367,7 @@ c      N5----8-----N4
 c
 c  Licensing:
 c
-c    This code is distributed under the GNU LGPL license. 
+c    This code is distributed under the MIT license. 
 c
 c  Modified:
 c
@@ -515,7 +515,7 @@ c    than the currently known minimum distance.
 c
 c  Licensing:
 c
-c    This code is distributed under the GNU LGPL license. 
+c    This code is distributed under the MIT license. 
 c
 c  Modified:
 c
