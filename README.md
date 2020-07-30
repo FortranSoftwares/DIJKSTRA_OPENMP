@@ -11,6 +11,10 @@ The actual graph that is analyzed is very small (6 nodes), but of course the sam
 ## Licensing:
 The computer code and data files described and made available on this web page are distributed under the MIT License
 
+## Author:
+
+Sourangshu Ghosh
+
 ## Reference:
 
 - Peter Arbenz, Wesley Petersen,
