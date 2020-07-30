@@ -25,8 +25,7 @@ c    02 July 2010
 c
 c  Author:
 c
-c    Original C version by Norm Matloff, CS Dept, UC Davis.
-c    This FORTRAN77 version by John Burkardt.
+c  Sourangshu Ghosh
 c
       implicit none
 
@@ -123,12 +122,11 @@ c    This code is distributed under the GNU LGPL license.
 c
 c  Modified:
 c
-c    02 July 2010
+c    By Sourangshu Ghosh
 c
 c  Author:
 c
-c    Original C version by Norm Matloff, CS Dept, UC Davis.
-c    This FORTRAN77 version by John Burkardt.
+c    Sourangshu Ghosh
 c
 c  Parameters:
 c
@@ -291,12 +289,11 @@ c    This code is distributed under the GNU LGPL license.
 c
 c  Modified:
 c
-c    02 July 2010
+c   By Sourangshu Ghosh
 c
 c  Author:
 c
-c    Original C version by Norm Matloff, CS Dept, UC Davis.
-c    This FORTRAN77 version by John Burkardt.
+c    Sourangshu Ghosh
 c
 c  Parameters:
 c
@@ -374,12 +371,11 @@ c    This code is distributed under the GNU LGPL license.
 c
 c  Modified:
 c
-c    01 July 2010
+c    By Sourangshu Ghosh
 c
 c  Author:
 c
-c    Original C version by Norm Matloff, CS Dept, UC Davis.
-c    This FORTRAN77 version by John Burkardt.
+c   Sourangshu Ghosh
 c
 c  Parameters:
 c
@@ -436,15 +432,15 @@ cc TIMESTAMP prints out the current YMDHMS date as a timestamp.
 c
 c  Licensing:
 c
-c    This code is distributed under the GNU LGPL license.
+c    This code is distributed under the MIT license.
 c
 c  Modified:
 c
-c    12 January 2007
+c    By Sourangshu Ghosh
 c
 c  Author:
 c
-c    John Burkardt
+c    Sourangshu Ghosh
 c
 c  Parameters:
 c
@@ -523,12 +519,11 @@ c    This code is distributed under the GNU LGPL license.
 c
 c  Modified:
 c
-c    01 July 2010
+c    By Sourangshu 
 c
 c  Author:
 c
-c    Original C version by Norm Matloff, CS Dept, UC Davis.
-c    This FORTRAN77 version by John Burkardt.
+c    Sourangshu Ghosh
 c
 c  Parameters:
 c
